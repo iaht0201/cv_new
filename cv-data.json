@@ -159,7 +159,8 @@
           "Flutter",
           "Dart",
           "JavaScript",
-          "Python"
+          "HTML", 
+          "SCSS"
         ],
         "live_url": "https://motchill-iaht.vercel.app/"
       }
@@ -332,7 +333,8 @@
           "Flutter",
           "Dart",
           "JavaScript",
-          "Python"
+          "HTML", 
+          "SCSS"
         ],
         "live_url": "https://motchill-iaht.vercel.app/"
       }

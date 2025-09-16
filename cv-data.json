@@ -1,0 +1,350 @@
+{
+  "en": {
+    "personal_info": {
+      "name": "Doan Quang Thai",
+      "position": "Data Labeling",
+      "email": "qthai02012001@gmail.com",
+      "phone": "0888575541",
+      "location": "Lai The 2, My Thuong Ward, Hue City",
+      "facebook": "https://www.facebook.com/iaht0201"
+    },
+    "summary": {
+      "professional_summary": "As a freelancer, I want to seek more stable opportunities to ensure long-term income. With a programming background, I am confident in handling data annotation tasks and supporting the company’s AI projects at __COMPANY__."
+    },
+    "experience": [
+      {
+        "company": "Freelancer",
+        "position": "Developer, Tester, Automation",
+        "location": "Hue, Vietnam",
+        "start_date": "06/2009",
+        "end_date": "Present",
+        "description": "Full-stack website development for businesses, participating in small testing projects, and building automation systems with n8n or Python.",
+        "achievements": [
+          "Developed and optimized SEO-friendly e-commerce websites",
+          "Participated in testing for small projects and crypto platforms",
+          "Built automation tools to serve business needs"
+        ]
+      },
+      {
+        "company": "3S HUE Intersoft",
+        "position": "Developer",
+        "location": "Hue, Vietnam",
+        "start_date": "2022",
+        "end_date": "03/2025",
+        "description": "Worked as a developer through different phases: web intern, Flutter mobile developer, and freelancer.",
+        "achievements": [
+          "Developed and optimized web applications",
+          "Built and deployed Flutter applications",
+          "Contributed to the company’s freelance projects"
+        ]
+      },
+      {
+        "company": "STDIO Hue",
+        "position": "ReactJS Intern",
+        "location": "Hue, Vietnam",
+        "start_date": "2021",
+        "end_date": "2022",
+        "description": "Participated in ReactJS internship projects, learning and improving web development skills.",
+        "achievements": [
+          "Supported building web interfaces with ReactJS",
+          "Worked in team projects",
+          "Improved frontend and web programming skills"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hue University of Sciences",
+        "field_of_study": "Information Technology",
+        "gpa": "3.0/4.0"
+      }
+    ],
+    "skills": {
+      "programming_languages": [
+        "Dart",
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        "Flutter",
+        "ReactJS",
+        "NextJS"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "SQL Server"
+      ],
+      "cloud_platforms": [
+        "Docker",
+        "Supabase"
+      ],
+      "tools": [
+        "Git",
+        "Postman"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Communication",
+        "Teamwork",
+        "Self-learning and knowledge sharing"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Hathi cosmetic",
+        "description": "Developed an SEO-friendly e-commerce website as a full-stack developer.",
+        "technologies": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "live_url": "https://hathibeauty.com/"
+      },
+      {
+        "name": "YouTube crawling & script design",
+        "description": "Used n8n, Excel, and AI (Gemini, ChatGPT, Supadata, …) to collect competitor channel data and auto-generate new script ideas.",
+        "technologies": [
+          "N8N",
+          "Gemini",
+          "Supadata",
+          "Excel",
+          "ChatGPT"
+        ]
+      },
+      {
+        "name": "MED IOT",
+        "description": "Developed & optimized UI, fixed UI/UX issues, and integrated APIs for a desktop application.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "API Integration"
+        ]
+      },
+      {
+        "name": "DJC",
+        "description": "Built UI/UX, optimized performance, deployed Flutter app to Apple Store & Google Play; fixed web bugs and video features with Python & JavaScript.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Python",
+          "JavaScript"
+        ],
+        "live_urls": [
+          "https://play.google.com/store/apps/details?id=com.app.djc_ddl",
+          "https://apps.apple.com/us/app/djc/id1559700733"
+        ]
+      },
+      {
+        "name": "HueJobs",
+        "description": "Developed a recruitment application as a Flutter Developer, building UI/UX and connecting data.",
+        "technologies": [
+          "Flutter",
+          "Dart"
+        ],
+        "github_url": "https://github.com/iaht0201/huejob-s"
+      },
+      {
+        "name": "HIENNGUYEN SOPRANO",
+        "description": "Developed a personal website as a freelancer; built UI/UX and optimized the portfolio site.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python"
+        ],
+        "live_url": "https://hiennguyensoprano.com/"
+      },
+      {
+        "name": "MotChill - Movie app",
+        "description": "Developed website and mobile application for movie streaming; implemented video playback, optimized UI, and handled system operations.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "JavaScript",
+          "Python"
+        ],
+        "live_url": "https://motchill-iaht.vercel.app/"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "FrontEnd Foundation Course - Certificate of Completion",
+        "issuer": "STDIO.HUE",
+        "date": "08/2021"
+      }
+    ]
+  },
+  "vi": {
+    "personal_info": {
+      "name": "Đoàn Quang Thái",
+      "position": "Gắn nhãn dữ liệu",
+      "email": "qthai02012001@gmail.com",
+      "phone": "0888575541",
+      "location": "Lại Thế 2, Phường Mỹ Thượng, Tp Huế",
+      "facebook": "https://www.facebook.com/iaht0201"
+    },
+    "summary": {
+      "professional_summary": "Là một freelancer, tôi mong muốn tìm kiếm thêm cơ hội làm việc ổn định để đảm bảo thu nhập lâu dài. Với nền tảng lập trình, tôi tự tin có thể thực hiện tốt công việc gán nhãn dữ liệu và hỗ trợ các dự án AI của công ty __COMPANY__."
+    },
+    "experience": [
+      {
+        "company": "Freelancer",
+        "position": "Developer, Tester, Automation",
+        "location": "Huế, Việt Nam",
+        "start_date": "06/2009",
+        "end_date": "Hiện tại",
+        "description": "Vai trò full‑stack website cho doanh nghiệp, tham gia các dự án tester nhỏ và xây dựng hệ thống automation bằng n8n hoặc Python.",
+        "achievements": [
+          "Phát triển và tối ưu website thương mại điện tử chuẩn SEO",
+          "Tham gia tester cho các dự án nhỏ và sàn crypto",
+          "Xây dựng các tool tự động hóa phục vụ doanh nghiệp"
+        ]
+      },
+      {
+        "company": "3S HUE Intersoft",
+        "position": "Developer",
+        "location": "Huế, Việt Nam",
+        "start_date": "2022",
+        "end_date": "03/2025",
+        "description": "Tham gia với vai trò developer qua các giai đoạn: intern web, developer mobile Flutter và freelancer.",
+        "achievements": [
+          "Phát triển và tối ưu ứng dụng web",
+          "Xây dựng và triển khai ứng dụng Flutter",
+          "Tham gia dự án freelance của công ty"
+        ]
+      },
+      {
+        "company": "STDIO Hue",
+        "position": "Thực tập sinh ReactJS",
+        "location": "Huế, Việt Nam",
+        "start_date": "2021",
+        "end_date": "2022",
+        "description": "Tham gia các dự án thực tập ReactJS, học hỏi và nâng cao kiến thức phát triển website.",
+        "achievements": [
+          "Hỗ trợ xây dựng giao diện web với ReactJS",
+          "Làm việc nhóm trong các dự án nội bộ",
+          "Nâng cao kỹ năng frontend và lập trình web"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Đại Học Khoa Học Huế",
+        "field_of_study": "Công nghệ thông tin",
+        "gpa": "3.0/4.0"
+      }
+    ],
+    "skills": {
+      "programming_languages": [
+        "Dart",
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        "Flutter",
+        "ReactJs",
+        "NextJs"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "SQL Server"
+      ],
+      "cloud_platforms": [
+        "Docker",
+        "Supabase"
+      ],
+      "tools": [
+        "Git",
+        "Postman"
+      ],
+      "soft_skills": [
+        "Giải quyết vấn đề",
+        "Giao tiếp",
+        "Có khả năng làm việc nhóm",
+        "Có khả năng tự học hỏi và chia sẻ"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Hathi cosmetic",
+        "description": "Xây dựng website thương mại điện tử chuẩn SEO với vai trò full‑stack.",
+        "technologies": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "live_url": "https://hathibeauty.com/"
+      },
+      {
+        "name": "Crawl YouTube thiết kế kịch bản",
+        "description": "Sử dụng n8n, Excel, AI (Gemini, ChatGPT, Supadata, …) để lấy dữ liệu kênh đối thủ và tự động tạo ý tưởng kịch bản mới.",
+        "technologies": [
+          "N8N",
+          "Gemini",
+          "Supadata",
+          "Excel",
+          "ChatGPT"
+        ]
+      },
+      {
+        "name": "MED IOT",
+        "description": "Phát triển & tối ưu giao diện, sửa lỗi UI/UX và tích hợp API cho ứng dụng desktop.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "API Integration"
+        ]
+      },
+      {
+        "name": "DJC",
+        "description": "Xây dựng UI/UX, tối ưu hiệu năng, triển khai app Flutter lên Apple Store & CH Play; fix bug web và tính năng video bằng Python & JavaScript.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Python",
+          "JavaScript"
+        ],
+        "live_urls": [
+          "https://play.google.com/store/apps/details?id=com.app.djc_ddl",
+          "https://apps.apple.com/us/app/djc/id1559700733"
+        ]
+      },
+      {
+        "name": "HueJobs",
+        "description": "Phát triển ứng dụng tuyển dụng với vai trò Flutter Developer, xây dựng UI/UX và kết nối dữ liệu.",
+        "technologies": [
+          "Flutter",
+          "Dart"
+        ],
+        "github_url": "https://github.com/iaht0201/huejob-s"
+      },
+      {
+        "name": "HIENNGUYEN SOPRANO",
+        "description": "Phát triển website cá nhân với vai trò freelancer, xây dựng UI/UX và tối ưu website.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python"
+        ],
+        "live_url": "https://hiennguyensoprano.com/"
+      },
+      {
+        "name": "MotChill - App xem phim",
+        "description": "Xây dựng website và ứng dụng xem phim; phát triển tính năng phát video, tối ưu giao diện và vận hành hệ thống.",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "JavaScript",
+          "Python"
+        ],
+        "live_url": "https://motchill-iaht.vercel.app/"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "FrontEnd Foundation Course - Certificate of Completion",
+        "issuer": "STDIO.HUE",
+        "date": "08/2021"
+      }
+    ]
+  }
+}

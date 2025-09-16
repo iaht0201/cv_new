@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CV — EN/VI (Split: HTML + CSS + JS)</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="langswitch" role="group" aria-label="Language switch">
+        <span id="label-language">Ngôn ngữ:</span>
+        <button id="btn-vi" class="active" data-lang="vi">VI</button>
+        <button id="btn-en" data-lang="en">EN</button>
+      </div>
+
+      <div class="top">
+        <main>
+          <h1 id="name"></h1>
+          <p class="sub" id="position"></p>
+
+          <section class="section">
+            <h1 id="label-summary">Tóm tắt</h2>
+            <div class="rule"></div>
+            <p id="summary"></p>
+          </section>
+
+          <section class="section">
+            <h2 id="label-exp">Kinh nghiệm</h2>
+            <div class="rule"></div>
+            <div id="experience"></div>
+          </section>
+
+          <section class="section">
+            <h2 id="label-portfolio">Dự án</h2>
+            <div class="rule"></div>
+            <div id="projects"></div>
+          </section>
+        </main>
+
+        <aside class="side">
+          <div class="block">
+            <h2 id="label-contact">Liên hệ</h2>
+            <ul class="contact" id="contact"></ul>
+          </div>
+
+          <div class="block">
+            <h2 id="label-skills">Kỹ năng</h2>
+            <div id="skills"></div>
+          </div>
+
+          <div class="block">
+            <h2 id="label-edu">Học vấn</h2>
+            <div id="education"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

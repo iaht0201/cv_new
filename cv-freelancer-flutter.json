@@ -2,14 +2,15 @@
   "en": {
     "personal_info": {
       "name": "Doan Quang Thai",
-      "position": "Data Labeling",
+      "position": "Flutter Developer",
       "email": "qthai02012001@gmail.com",
       "phone": "0888575541",
       "location": "Lai The 2, My Thuong Ward, Hue City",
-      "facebook": "https://www.facebook.com/iaht0201"
+      "facebook": "https://www.facebook.com/iaht0201",
+      "birthdate": "02-01-2001"
     },
     "summary": {
-      "professional_summary": "As a freelancer, I am seeking additional stable opportunities to ensure long-term income. With a programming background, I am confident in my ability to successfully handle the tasks assigned by __COMPANY__."
+      "professional_summary": "Flutter developer with 2 years of experience in building and developing cross-platform mobile applications. Proficient in state management using BLoC and Provider. Currently seeking remote opportunities where I can leverage my skills and programming mindset to effectively contribute to the company’s projects."
     },
     "experience": [
       {
@@ -67,8 +68,7 @@
       ],
       "frameworks": [
         "Flutter",
-        "ReactJS",
-        "NextJS"
+        "ReactJS"
       ],
       "databases": [
         "PostgreSQL",
@@ -90,11 +90,20 @@
       ]
     },
     "projects": [
+         {
+        "name": "Flonova n8n Automation",
+        "description": "Built a responsive landing page for Flonova’s n8n automation services, serving as the developer. Implemented the UI in React and used Supabase for data and backend services.",
+        "technologies": [
+          "Reactjs",
+          "Supabase"
+        ],
+        "live_url": "https://flonova.io.vn/"
+      },
       {
         "name": "Hathi cosmetic",
         "description": "Developed an SEO-friendly e-commerce website as a full-stack developer.",
         "technologies": [
-          "Next.js",
+          "Nextjs",
           "PostgreSQL"
         ],
         "live_url": "https://hathibeauty.com/"
@@ -176,14 +185,16 @@
   "vi": {
     "personal_info": {
       "name": "Đoàn Quang Thái",
-      "position": "Gắn nhãn dữ liệu",
+      "position": "Flutter Developer",
       "email": "qthai02012001@gmail.com",
       "phone": "0888575541",
       "location": "Lại Thế 2, Phường Mỹ Thượng, Tp Huế",
-      "facebook": "https://www.facebook.com/iaht0201"
+      "facebook": "https://www.facebook.com/iaht0201",
+      "birthdate": "02-01-2001"
+
     },
     "summary": {
-      "professional_summary": "Là một freelancer, tôi mong muốn tìm kiếm thêm cơ hội làm việc ổn định để đảm bảo thu nhập lâu dài. Với nền tảng lập trình, tôi tự tin có thể thực hiện tốt công việc mà công ty __COMPANY__ đưa ra."
+      "professional_summary": "Là một lập trình viên Flutter với 2 năm kinh nghiệm xây dựng và phát triển ứng dụng di động đa nền tảng. Thành thạo trong quản lý trạng thái bằng BLoC và Provider. Hiện tôi mong muốn tìm kiếm cơ hội làm việc remote, nơi tôi có thể tận dụng kinh nghiệm và tư duy lập trình để đóng góp hiệu quả vào các dự án của khách hàng."
     },
     "experience": [
       {
@@ -241,8 +252,7 @@
       ],
       "frameworks": [
         "Flutter",
-        "ReactJs",
-        "NextJs"
+        "ReactJs"
       ],
       "databases": [
         "PostgreSQL",
@@ -264,11 +274,20 @@
       ]
     },
     "projects": [
+        {
+        "name": "Flonova n8n Automation",
+        "description": "Xây dựng landing page cho dịch vụ tự động hóa n8n của Flonova với vai trò developer. Triển khai giao diện bằng React và sử dụng Supabase cho dữ liệu và dịch vụ backend.",
+        "technologies": [
+          "React",
+          "Supabase"
+        ],
+        "live_url": "https://flonova.io.vn/"
+      },
       {
         "name": "Hathi cosmetic",
         "description": "Xây dựng website thương mại điện tử chuẩn SEO với vai trò full‑stack.",
         "technologies": [
-          "Next.js",
+          "Nextjs",
           "PostgreSQL"
         ],
         "live_url": "https://hathibeauty.com/"

@@ -51,10 +51,14 @@ function render(cv) {
   const p = cv.personal_info || {};
   const contact = document.getElementById("contact");
   const items = [];
-  if (p.location) items.push(`📍 ${sanitize(p.location)}`);
-  if (p.email) items.push(`✉ ${sanitize(p.email)}`);
+  if (p.birthdate) items.push(`🎂 ${sanitize(p.birthdate)}`);
   if (p.phone) items.push(`☎ ${sanitize(p.phone)}`);
+
+  if (p.email) items.push(`✉ ${sanitize(p.email)}`);
+  if (p.location) items.push(`📍 ${sanitize(p.location)}`);
+
   if (p.facebook) items.push(`↗ ${sanitize(p.facebook)}`);
+  
   contact.innerHTML = items.map(i => `<li>${i}</li>`).join("");
 
   const expWrap = document.getElementById("experience");

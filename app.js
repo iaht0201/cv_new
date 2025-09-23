@@ -1,10 +1,11 @@
 const qs = new URLSearchParams(location.search);
 const sanitize = s => String(s || "").replace(/[<>]/g, c => ({ "<": "&lt;", ">": "&gt;" }[c]));
 const getLangFromQS = () => (qs.get("lang") || "vi").toLowerCase().startsWith("en") ? "en" : "vi";
-const getCompanyFromQS = () => sanitize(qs.get("company") || "TST ECO");
 const getTypeFromQS = () => (qs.get("type") || "").trim();
 
 let currentLang = getLangFromQS();
+const getCompanyFromQS = () => sanitize(qs.get("company") || currentLang =="vi" ? "công ty": "company");
+
 let DATA = null; 
 
 const LABELS = {

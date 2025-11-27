@@ -2,15 +2,14 @@
   "en": {
     "personal_info": {
       "name": "Doan Quang Thai",
-      "position": "Freelancer",
+      "position": "Account Creation Staff",
       "email": "qthai02012001@gmail.com",
       "phone": "0888575541",
       "location": "Lai The 2, My Thuong Ward, Hue City",
-      "facebook": "https://www.facebook.com/iaht0201",
-      "birthdate": "02-01-2001"
+      "facebook": "https://www.facebook.com/iaht0201"
     },
     "summary": {
-      "professional_summary": "Mobile developer with 2 years of experience in Flutter application development, committed to continuous learning, advancing technical expertise, and transforming innovative ideas into valuable products."
+      "professional_summary": "I am applying for the Account Creation Staff position, bringing carefulness, persistence, and a strong sense of responsibility to my work. With an IT background and freelance experience in programming and automation, I am capable of handling tasks accurately, efficiently, and in compliance with established processes. I am also learning more about MMO operations, giving me practical exposure to proxy, VPN, and related tools. If the company is interested, I am ready to discuss further. I believe I can quickly adapt to new tasks and perform well in this role."
     },
     "experience": [
       {
@@ -68,7 +67,8 @@
       ],
       "frameworks": [
         "Flutter",
-        "ReactJS"
+        "ReactJS",
+        "NextJS"
       ],
       "databases": [
         "PostgreSQL",
@@ -90,20 +90,11 @@
       ]
     },
     "projects": [
-         {
-        "name": "Flonova n8n Automation",
-        "description": "Built a responsive landing page for Flonova’s n8n automation services, serving as the developer. Implemented the UI in React and used Supabase for data and backend services.",
-        "technologies": [
-          "Reactjs",
-          "Supabase"
-        ],
-        "live_url": "https://flonova.io.vn/"
-      },
       {
         "name": "Hathi cosmetic",
         "description": "Developed an SEO-friendly e-commerce website as a full-stack developer.",
         "technologies": [
-          "Nextjs",
+          "Next.js",
           "PostgreSQL"
         ],
         "live_url": "https://hathibeauty.com/"
@@ -168,7 +159,7 @@
           "Flutter",
           "Dart",
           "JavaScript",
-          "HTML", 
+          "HTML",
           "SCSS"
         ],
         "live_url": "https://motchill-iaht.vercel.app/"
@@ -179,22 +170,25 @@
         "name": "FrontEnd Foundation Course - Certificate of Completion",
         "issuer": "STDIO.HUE",
         "date": "08/2021"
+      },
+      {
+        "name": "Kế toán cơ bản",
+        "issuer": "Trung tâm Đào tạo và Tư vấn Hồng Đức",
+        "date": "10/2025"
       }
     ]
   },
   "vi": {
     "personal_info": {
       "name": "Đoàn Quang Thái",
-      "position": "Freelancer",
+      "position": "Nhân viên tạo tài khoản",
       "email": "qthai02012001@gmail.com",
       "phone": "0888575541",
       "location": "Lại Thế 2, Phường Mỹ Thượng, Tp Huế",
-      "facebook": "https://www.facebook.com/iaht0201",
-      "birthdate": "02-01-2001"
-
+      "facebook": "https://www.facebook.com/iaht0201"
     },
     "summary": {
-      "professional_summary": "Là một lập trình viên mobile với 2 năm kinh nghiệm phát triển ứng dụng Flutter, mong muốn không ngừng học hỏi, nâng cao kỹ năng chuyên môn và hiện thực hóa những ý tưởng sáng tạo thành sản phẩm hữu ích."
+      "professional_summary": "Tôi mong muốn ứng tuyển vị trí Nhân viên tạo tài khoản của công ty, với tinh thần cẩn thận, kiên trì và trách nhiệm trong công việc. Với nền tảng CNTT cùng kinh nghiệm làm việc trong lĩnh vực lập trình và tự động hóa, tôi có khả năng xử lý thao tác nhanh, chính xác và tuân thủ quy trình. Hiện tại tôi cũng đang tìm hiểu thêm về MMO nên có kinh nghiệm tiếp xúc với proxy, VPN và một số công cụ hỗ trợ liên quan. Nếu công ty quan tâm, tôi rất sẵn sàng trao đổi thêm. Tôi tin rằng mình có thể thích ứng nhanh với công việc mới và hoàn thành tốt các nhiệm vụ được giao."
     },
     "experience": [
       {
@@ -203,7 +197,7 @@
         "location": "Huế, Việt Nam",
         "start_date": "06/2009",
         "end_date": "Hiện tại",
-        "description": "Vai trò full‑stack website cho doanh nghiệp, tham gia các dự án tester nhỏ và xây dựng hệ thống automation bằng n8n hoặc Python.",
+        "description": "Vai trò full-stack website cho doanh nghiệp, tham gia các dự án tester nhỏ và xây dựng hệ thống automation bằng n8n hoặc Python.",
         "achievements": [
           "Phát triển và tối ưu website thương mại điện tử chuẩn SEO",
           "Tham gia tester cho các dự án nhỏ và sàn crypto",
@@ -252,7 +246,8 @@
       ],
       "frameworks": [
         "Flutter",
-        "ReactJs"
+        "ReactJs",
+        "NextJs"
       ],
       "databases": [
         "PostgreSQL",
@@ -274,20 +269,11 @@
       ]
     },
     "projects": [
-        {
-        "name": "Flonova n8n Automation",
-        "description": "Xây dựng landing page cho dịch vụ tự động hóa n8n của Flonova với vai trò developer. Triển khai giao diện bằng React và sử dụng Supabase cho dữ liệu và dịch vụ backend.",
-        "technologies": [
-          "React",
-          "Supabase"
-        ],
-        "live_url": "https://flonova.io.vn/"
-      },
       {
         "name": "Hathi cosmetic",
-        "description": "Xây dựng website thương mại điện tử chuẩn SEO với vai trò full‑stack.",
+        "description": "Xây dựng website thương mại điện tử chuẩn SEO với vai trò full-stack.",
         "technologies": [
-          "Nextjs",
+          "Next.js",
           "PostgreSQL"
         ],
         "live_url": "https://hathibeauty.com/"
@@ -352,7 +338,7 @@
           "Flutter",
           "Dart",
           "JavaScript",
-          "HTML", 
+          "HTML",
           "SCSS"
         ],
         "live_url": "https://motchill-iaht.vercel.app/"
@@ -363,6 +349,11 @@
         "name": "FrontEnd Foundation Course - Certificate of Completion",
         "issuer": "STDIO.HUE",
         "date": "08/2021"
+      }, 
+      {
+        "name": "Kế toán cơ bản",
+        "issuer": "Trung tâm Đào tạo và Tư vấn Hồng Đức",
+        "date": "10/2025"
       }
     ]
   }

@@ -2,14 +2,14 @@
     "en": {
         "personal_info": {
             "name": "Doan Quang Thai",
-            "position": "Tester game",
+            "position": "N8n Developer",
             "email": "qthai02012001@gmail.com",
             "phone": "0888575541",
             "location": "Lai The 2, My Thuong Ward, Hue City",
             "facebook": "https://www.facebook.com/iaht0201"
         },
         "summary": {
-            "professional_summary": "I am a mobile, web, and automation AI developer with experience testing crypto platforms and various games, and I’m eager to apply for a Game Tester role or any position where my skills can contribute."
+            "professional_summary": "I am applying for an n8n-related position, especially Automation Developer, leveraging my experience as a programmer and freelancer in mobile, web, automation, and AI, along with hands-on n8n exploration to build automated workflows, analyze processes, integrate APIs, optimize system performance, and support additional roles such as web/tool development or business analysis when needed."
         },
         "experience": [{
                 "company": "Freelancer",
@@ -87,6 +87,12 @@
             ]
         },
         "projects": [{
+                "name": "Image & Video Generation Workflow using Utral Account",
+                "description": "Developed an n8n workflow to synchronize affiliate characters using Utral and Pro accounts, supported by App Script and a Python tool for a more intuitive user interface.",
+                "technologies": ["n8n", "App Script", "JS"],
+                "live_url": "https://drive.google.com/drive/folders/1cRD3vGoud3XXQd0C_E7oT8gzNVTM9KgA?usp=sharing"
+            },
+            {
                 "name": "Hathi cosmetic",
                 "description": "Developed an SEO-friendly e-commerce website as a full-stack developer.",
                 "technologies": [
@@ -190,14 +196,14 @@
     "vi": {
         "personal_info": {
             "name": "Đoàn Quang Thái",
-            "position": "Tester game",
+            "position": "N8n Developer",
             "email": "qthai02012001@gmail.com",
             "phone": "0888575541",
             "location": "Lại Thế 2, Phường Mỹ Thượng, Tp Huế",
             "facebook": "https://www.facebook.com/iaht0201"
         },
         "summary": {
-            "professional_summary": "Tôi mong muốn ứng tuyển vào vị trí Game Tester. Hiện tôi là một freelancer phát triển mobile, web, automation và AI, đồng thời có kinh nghiệm test thực tế trên các sàn giao dịch crypto và một số tựa game. Tôi có khả năng phân tích lỗi, kiểm thử tính năng, mô phỏng hành vi người dùng và đánh giá trải nghiệm sản phẩm. Bên cạnh kiến thức về lập trình và tự động hóa, tôi có tư duy logic, khả năng học nhanh và luôn sẵn sàng tiếp thu công nghệ mới. Tôi rất mong được gửi CV để công ty xem qua. Ngoài vị trí Game Tester, nếu công ty thấy tôi phù hợp với một vai trò khác, tôi cũng luôn sẵn lòng thử sức. Tôi tin rằng sự chủ động, kiên trì và nền tảng kỹ thuật của mình sẽ mang lại giá trị cho đội ngũ."
+            "professional_summary": "Tôi mong muốn ứng tuyển vào vị trí liên quan đến n8n, đặc biệt là Automation Developer. Với kinh nghiệm nhiều năm làm lập trình viên và freelancer trong các mảng mobile, web, automation và AI, cùng với việc đã tìm hiểu và thử nghiệm n8n trong các quy trình tự động hóa, tôi tin rằng mình có thể nhanh chóng thích ứng và đóng góp hiệu quả cho đội ngũ. Tôi có khả năng phân tích quy trình, xây dựng workflow tự động hóa, tích hợp API, mô phỏng hành vi người dùng và tối ưu hóa hiệu suất hệ thống. Bên cạnh đó, nền tảng kỹ thuật vững chắc giúp tôi có thể hỗ trợ thêm ở các vai trò xây dựng web/tool hoặc tham gia phân tích nghiệp vụ (BA) khi cần thiết."
         },
         "experience": [{
                 "company": "Freelancer",
@@ -281,17 +287,11 @@
             ]
         },
         "projects": [{
-                "name": "Tester Game",
-                "location": "Việt Nam",
-                "description": "Thực hiện test và đánh giá các game mobile như Biệt Đội Thép và Tam Quốc Tranh Đấu, tập trung vào trải nghiệm người chơi, phát hiện lỗi và phản hồi hiệu năng.",
-                "technologies": [
-                    "Phát hiện và báo cáo lỗi gameplay, UI trong quá trình test",
-                    "Phối hợp với lập trình viên để cải thiện hiệu năng và trải nghiệm người dùng",
-                    "Cung cấp phản hồi chi tiết giúp cân bằng và nâng cao chất lượng trò chơi"
-                ]
-            }
-
-            , {
+                "name": "Workflow tạo ảnh và veo3 bằng tài khoản utral",
+                "description": "Xây dựng 1 workflow để đồng bộ hóa nhân vật làm affilate bằng tài khoản utral và pro (Hiện tại mình cũng đang xây dựng 1 tool bằng python để người dùng có thể thao tác trực quan hơn)",
+                "technologies": ["n8n", "App script", "JS"],
+                "live_url": "https://drive.google.com/drive/folders/1cRD3vGoud3XXQd0C_E7oT8gzNVTM9KgA?usp=sharing"
+            }, {
                 "name": "Hathi cosmetic",
                 "description": "Xây dựng website thương mại điện tử chuẩn SEO với vai trò full-stack.",
                 "technologies": [

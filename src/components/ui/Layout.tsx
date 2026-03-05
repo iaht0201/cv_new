@@ -46,17 +46,24 @@ export const Pill = ({ children, className }: { children: React.ReactNode; class
   </span>
 );
 
-export const SectionTitle = ({ children, icon: Icon }: { children: React.ReactNode; icon: any }) => (
+export const SectionTitle = ({ children, title, subtitle, icon: Icon }: { children?: React.ReactNode; title?: string; subtitle?: string; icon: any }) => (
   <div className="flex items-center gap-3 mb-8">
     <div className="p-2 rounded-lg text-white" style={{ background: G.accent }}>
       <Icon className="w-4 h-4" />
     </div>
-    <h2
-      className="text-2xl font-black uppercase tracking-wide"
-      style={{ fontFamily: 'Montserrat, Inter, sans-serif', color: C.foreground }}
-    >
-      {children}
-    </h2>
+    <div className="flex flex-col">
+      <h2
+        className="text-2xl font-black uppercase tracking-wide"
+        style={{ fontFamily: 'Montserrat, Inter, sans-serif', color: C.foreground }}
+      >
+        {title || children}
+      </h2>
+      {subtitle && (
+        <span className="text-xs font-bold uppercase tracking-widest opacity-60" style={{ color: C.muted }}>
+          {subtitle}
+        </span>
+      )}
+    </div>
     <div className="h-[2px] flex-grow rounded-full ml-2" style={{ background: G.divider }} />
   </div>
 );

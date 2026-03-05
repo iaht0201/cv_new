@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;0,800;0,900;1,700;1,800;1,900&family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+@layer components {
+  .pill {
+    @apply px-3 py-1 rounded-full text-xs font-semibold bg-surface border text-muted;
+    border-color: #E8DDD0; /* surface-mid */
+  }
+
+  .section-title {
+    font-family: 'Montserrat', sans-serif;
+    @apply text-3xl font-black uppercase tracking-wider text-accent mb-6;
+    position: relative;
+  }
+
+  .card {
+    @apply rounded-2xl border bg-white p-6 shadow-sm transition-all hover:shadow-lg;
+    border-color: #E8DDD0; /* surfaceMid */
+  }
+}
+
+/* Custom scrollbar - warm mocha */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #FAF7F2; }
+::-webkit-scrollbar-thumb { background: #A07850; border-radius: 4px; }
